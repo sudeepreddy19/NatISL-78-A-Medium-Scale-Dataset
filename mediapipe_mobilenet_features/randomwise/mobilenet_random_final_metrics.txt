@@ -1,0 +1,6 @@
+MobileNetV2 + MediaPipe Random Split Final Validation Metrics
+============================================================
+Validation Loss : 0.488851
+Top-1 Accuracy  : 0.869379
+Top-3 Accuracy  : 0.961456
+Top-5 Accuracy  : 0.980728
