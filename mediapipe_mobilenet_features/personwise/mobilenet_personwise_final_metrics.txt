@@ -1,0 +1,12 @@
+MobileNetV2 + MediaPipe Person-wise Validation Metrics
+=====================================================
+
+Best Epoch       : 16
+Best Val Top-1   : 0.056410
+
+Validation Metrics From Best Model
+----------------------------------
+Validation Loss : 4.370252
+Top-1 Accuracy  : 0.056410
+Top-3 Accuracy  : 0.143590
+Top-5 Accuracy  : 0.197436
